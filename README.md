@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samuel Nyeko
-- 👀 I’m a qaulified with commercial experience in Data science and Machine Learning.
+- 👀 I’m qualified in Data Science and Machine Learning with commercial experience.
 - 🌱 I hold a Masters Degree in Health Data science and a BSC in Computer Science.
-- 💞️ I’m looking to collaborate and contribute in Data scienec, and machine learning challenges.
+- 💞️ I’m looking to collaborate and contribute to Data science, and machine learning projects.
 - 📫 How to reach me nyekosamuel@yahoo.com | nyekosamueltreg@gmail.com
 
 <!---
